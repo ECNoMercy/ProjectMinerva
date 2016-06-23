@@ -14,7 +14,7 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Minerva_1_0_0_0\Minerva.exe.manifest" size="8847">
+    <dependentAssembly dependencyType="install" codebase="Application-Files\Minerva_1_0_0_0\Minerva.exe.manifest" size="8847">
       <assemblyIdentity name="Minerva.exe" version="1.0.0.0" publicKeyToken="8eee24ce275ab6e0" language="en" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
